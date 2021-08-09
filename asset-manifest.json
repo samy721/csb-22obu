@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://samy721.github.io/csb-22obu/static/css/main.a830af68.chunk.css",
+    "main.js": "https://samy721.github.io/csb-22obu/static/js/main.b74bac79.chunk.js",
+    "main.js.map": "https://samy721.github.io/csb-22obu/static/js/main.b74bac79.chunk.js.map",
+    "runtime-main.js": "https://samy721.github.io/csb-22obu/static/js/runtime-main.6e1a02ee.js",
+    "runtime-main.js.map": "https://samy721.github.io/csb-22obu/static/js/runtime-main.6e1a02ee.js.map",
+    "static/js/2.748b1fab.chunk.js": "https://samy721.github.io/csb-22obu/static/js/2.748b1fab.chunk.js",
+    "static/js/2.748b1fab.chunk.js.map": "https://samy721.github.io/csb-22obu/static/js/2.748b1fab.chunk.js.map",
+    "index.html": "https://samy721.github.io/csb-22obu/index.html",
+    "static/css/main.a830af68.chunk.css.map": "https://samy721.github.io/csb-22obu/static/css/main.a830af68.chunk.css.map",
+    "static/js/2.748b1fab.chunk.js.LICENSE.txt": "https://samy721.github.io/csb-22obu/static/js/2.748b1fab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e1a02ee.js",
+    "static/js/2.748b1fab.chunk.js",
+    "static/css/main.a830af68.chunk.css",
+    "static/js/main.b74bac79.chunk.js"
+  ]
+}
